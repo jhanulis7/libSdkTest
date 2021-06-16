@@ -1,1 +1,1 @@
-# libSdkTest
+# edith-sdk-maven-repo
