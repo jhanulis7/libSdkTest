@@ -1,0 +1,3 @@
+rootProject.name = "LibSdkTestApp"
+include ':app'
+include ':libSdkTest'
