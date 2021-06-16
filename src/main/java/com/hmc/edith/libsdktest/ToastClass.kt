@@ -1,4 +1,4 @@
-package com.hmc.edith.libmaventest
+package com.hmc.edith.libsdktest
 
 import android.content.Context
 import android.widget.Toast
